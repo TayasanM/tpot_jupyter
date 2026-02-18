@@ -1,3 +1,5 @@
+# Ignore submodule folder changes
+AutoQML/
 # Conda / installers
 miniconda3/
 Miniconda3-*.sh*
