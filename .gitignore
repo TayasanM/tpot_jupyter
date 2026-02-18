@@ -1,0 +1,26 @@
+# Conda / installers
+miniconda3/
+Miniconda3-*.sh*
+*.sh
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (usually big)
+*.csv
+*.parquet
+*.zip
+
+# Models / artifacts
+*.joblib
+*.pkl
+*.h5
+*.pt
+*.ckpt
+
+# OS
+.DS_Store
